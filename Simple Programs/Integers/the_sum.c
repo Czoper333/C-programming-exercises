@@ -1,4 +1,4 @@
-/* This program check whether the number is odd or even
+/* This program gives sum of addition of two integer numbers
    This program is written by x.oper and this code is available
    on the git repository at https://github.com/Czoper333 */
 
@@ -17,7 +17,7 @@ int main(void)
     scanf("%d", &b);
     sum = a + b;
 
-    // print the result of addiction
+    // print the result of addition
     printf("The sum of %d and %d is: %d\n", a, b, sum);
     return 0;
 }
