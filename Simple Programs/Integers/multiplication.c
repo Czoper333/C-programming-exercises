@@ -1,6 +1,4 @@
-/* This program gives result of multiplication of two float numbers
-   This program is written by x.oper and this code is available
-   on the git repository at https://github.com/Czoper333 */
+/* This program gives result of multiplication of two float numbers */
 
 //include standard input output library
 #include <stdio.h>
