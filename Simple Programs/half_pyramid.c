@@ -1,6 +1,4 @@
-/*Program to print half pyramid using "#"
-  This program is written by x.oper and this code is available
-  on the git repository named "C-programming-exercises" at https://github.com/Czoper333*/
+/*Program to print half pyramid using "#" */
 
 #include <stdio.h>
 
