@@ -1,6 +1,4 @@
-/* This program gives the quotient of two numbers
-   This program is written by x.oper and this code is available
-   on the git repository at https://github.com/Czoper333 */
+/* This program gives the quotient of two numbers */
 
 //include standard input output library
 #include <stdio.h>
