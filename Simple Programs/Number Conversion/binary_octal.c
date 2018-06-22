@@ -1,6 +1,4 @@
-/* This program convert binary to octal
-   This program is written by x.oper and this code is available
-   on the git repository at https://github.com/Czoper333 */
+/* This program convert binary to octal */
 
 #include <stdio.h>
 
