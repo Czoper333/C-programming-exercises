@@ -1,6 +1,4 @@
-/* This program convert a given number of days in terms of Years, Weeks & Days
-   This program is written by x.oper and this code is available
-   on the git repository at https://github.com/Czoper333 */
+/* This program convert a given number of days in terms of Years, Weeks & Days */
 
 // declare constant variable
 #define DAYSINWEEK 7
