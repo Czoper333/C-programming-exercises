@@ -1,6 +1,4 @@
-/* This program check whether the number is positive or negative
-   This program is written by x.oper and this code is available
-   on the git repository at https://github.com/Czoper333 */
+/* This program check whether the number is positive or negative */
 
 //include standard input output library
 #include <stdio.h>
