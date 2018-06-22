@@ -1,6 +1,4 @@
-/*Program prompt the user for two integers A and B and swap their values
-  This program is written by x.oper and this code is available
-  on the git repository at https://github.com/Czoper333 */
+/*Program prompt the user for two integers A and B and swap their values */
 
 #include <stdio.h>
 void swap(float *ptr1, float *ptr2);
