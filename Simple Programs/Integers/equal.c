@@ -1,6 +1,4 @@
-/* This program check whether two variables are equal
-   This program is written by x.oper and this code is available
-   on the git repository at https://github.com/Czoper333 */
+/* This program check whether two variables are equal */
 
 #include <stdio.h>
 
