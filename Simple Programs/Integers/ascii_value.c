@@ -1,6 +1,4 @@
-/* This program find and then print ASCII Value of a Character
-   This program is written by x.oper and this code is available
-   on the git repository at https://github.com/Czoper333 */
+/* This program find and then print ASCII Value of a Character */
 
 //include standard input output library
 #include <stdio.h>
