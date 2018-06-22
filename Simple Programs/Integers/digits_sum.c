@@ -1,6 +1,4 @@
-/* This program is compute the sum of digits in a given integer
-   This program is written by x.oper and this code is available
-   on the git repository at https://github.com/Czoper333 */
+/* This program is compute the sum of digits in a given integer */
 
 #include <stdio.h>
 
